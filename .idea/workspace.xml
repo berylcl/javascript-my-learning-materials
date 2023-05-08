@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3147f3d3-3c5a-4173-b468-e6cb27a3a5f4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OjAc91i6I5D8yacxOMMwZi6ica" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Node.js.destructuring-objects.js">
+    <configuration name="arrays.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/strict/arrays.js" working-dir="$PROJECT_DIR$/strict">
+      <method v="2" />
+    </configuration>
+    <configuration name="brackets.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/strict/brackets.js" working-dir="$PROJECT_DIR$/strict">
+      <method v="2" />
+    </configuration>
+    <configuration name="destructuring-objects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Data structures/destructuring-objects.js" working-dir="$PROJECT_DIR$/Data structures">
+      <method v="2" />
+    </configuration>
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/strict/script.js" working-dir="$PROJECT_DIR$/strict">
+      <method v="2" />
+    </configuration>
+    <configuration name="this.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/strict/this.js" working-dir="$PROJECT_DIR$/strict">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.destructuring-objects.js" />
+        <item itemvalue="Node.js.this.js" />
+        <item itemvalue="Node.js.brackets.js" />
+        <item itemvalue="Node.js.script.js" />
+        <item itemvalue="Node.js.arrays.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3147f3d3-3c5a-4173-b468-e6cb27a3a5f4" name="Changes" comment="" />
+      <created>1682063697682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682063697682</updated>
+      <workItem from="1682063700172" duration="2085000" />
+      <workItem from="1682096199828" duration="694000" />
+      <workItem from="1682096924663" duration="4156000" />
+      <workItem from="1682112645561" duration="1314000" />
+      <workItem from="1682172990333" duration="522000" />
+      <workItem from="1682174176680" duration="3749000" />
+      <workItem from="1682234813897" duration="4104000" />
+      <workItem from="1682272001620" duration="1871000" />
+      <workItem from="1682275131333" duration="3356000" />
+      <workItem from="1682313499196" duration="8112000" />
+      <workItem from="1682367738368" duration="601000" />
+      <workItem from="1682404530846" duration="597000" />
+      <workItem from="1682414526770" duration="453000" />
+      <workItem from="1682433485966" duration="4639000" />
+      <workItem from="1682448979128" duration="453000" />
+      <workItem from="1682489583661" duration="3899000" />
+      <workItem from="1682516882998" duration="7115000" />
+      <workItem from="1682532376989" duration="49000" />
+      <workItem from="1682532441594" duration="1643000" />
+      <workItem from="1682580805392" duration="1270000" />
+      <workItem from="1683101637247" duration="623000" />
+      <workItem from="1683211873818" duration="341000" />
+      <workItem from="1683212302441" duration="709000" />
+      <workItem from="1683217522732" duration="28000" />
+      <workItem from="1683231550970" duration="1000" />
+      <workItem from="1683542832299" duration="1572000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
