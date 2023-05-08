@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3147f3d3-3c5a-4173-b468-e6cb27a3a5f4" name="Changes" comment="" />
+    <list default="true" id="3147f3d3-3c5a-4173-b468-e6cb27a3a5f4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Data structures/spread-operator.js" beforeDir="false" afterPath="$PROJECT_DIR$/Data structures/spread-operator.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2OjAc91i6I5D8yacxOMMwZi6ica" />
   <component name="ProjectViewState">
@@ -40,10 +45,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.destructuring-objects.js">
-    <configuration name="arrays.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/strict/arrays.js" working-dir="$PROJECT_DIR$/strict">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.spread-operator.js">
     <configuration name="brackets.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/strict/brackets.js" working-dir="$PROJECT_DIR$/strict">
       <method v="2" />
     </configuration>
@@ -53,16 +55,19 @@
     <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/strict/script.js" working-dir="$PROJECT_DIR$/strict">
       <method v="2" />
     </configuration>
+    <configuration name="spread-operator.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Data structures/spread-operator.js" working-dir="$PROJECT_DIR$/Data structures">
+      <method v="2" />
+    </configuration>
     <configuration name="this.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/strict/this.js" working-dir="$PROJECT_DIR$/strict">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.spread-operator.js" />
         <item itemvalue="Node.js.destructuring-objects.js" />
         <item itemvalue="Node.js.this.js" />
         <item itemvalue="Node.js.brackets.js" />
         <item itemvalue="Node.js.script.js" />
-        <item itemvalue="Node.js.arrays.js" />
       </list>
     </recent_temporary>
   </component>
@@ -100,6 +105,7 @@
       <workItem from="1683217522732" duration="28000" />
       <workItem from="1683231550970" duration="1000" />
       <workItem from="1683542832299" duration="1572000" />
+      <workItem from="1683552845891" duration="10976000" />
     </task>
     <servers />
   </component>
