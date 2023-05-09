@@ -52,8 +52,8 @@ const rest1 = {
     numGuests: 30,
 }
 const rest2 = {
-    name: 'La Piazza',
-    owner: 'Giovanni Rossi'
+    name: 'La Pizza',
+    owner: 'Giovanni Rossa'
 }
 rest1.numGuests = rest2.numGuests || 10
 rest2.numGuests = rest2.numGuests || 10
@@ -64,5 +64,9 @@ rest2.numGuests = rest2.numGuests || 10
 // If they are falsy, the ||= operator assigns the value 10 to the numGuests property.
 rest1.numGuests ||= 10
 rest2.numGuests ||= 10
+console.log(rest1)
+console.log(rest2)
+rest2.owner = rest2.owner && '<ANONYMOUS>'
+rest1.owner = rest1.owner && "<ANONYMOUS>"
 console.log(rest1)
 console.log(rest2)
