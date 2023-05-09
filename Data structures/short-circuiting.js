@@ -47,3 +47,22 @@ restaurant.orderPizza && restaurant.orderPizza('mushrooms','spinach')
 //or can be used to set default values
 const guessCorrect = restaurant.numGuests ?? 10
 console.log(guessCorrect)
+const rest1 = {
+    name: 'Capri',
+    numGuests: 30,
+}
+const rest2 = {
+    name: 'La Piazza',
+    owner: 'Giovanni Rossi'
+}
+rest1.numGuests = rest2.numGuests || 10
+rest2.numGuests = rest2.numGuests || 10
+//or assignment operator assigns value if it is nuih
+//In JavaScript, the ||= operator is a shorthand way of assigning a default value to a variable if it is falsy
+// (i.e., if its value is undefined, null, 0, NaN, false, or an empty string).
+//checking if the numGuests property of the rest1 and rest2 objects are falsy.
+// If they are falsy, the ||= operator assigns the value 10 to the numGuests property.
+rest1.numGuests ||= 10
+rest2.numGuests ||= 10
+console.log(rest1)
+console.log(rest2)
