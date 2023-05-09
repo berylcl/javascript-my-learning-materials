@@ -39,8 +39,9 @@ const game = {
     },
 };
 //Create one player array for each team (variables 'players1' and 'players2')
-players1 = game.players[0]
-players2 = game.players[1]
+//players1 = game.players[0]
+//players2 = game.players[1]
+const [players1,players2] = game.players
 console.log(players1)
 console.log(players2)
 //. The first player in any player array is the goalkeeper and the others are field players.
@@ -53,8 +54,8 @@ const allPlayers = [...players1,...players2]
 console.log(allPlayers)
 //During the game, Bayern Munich (team 1) used 3 substitute players.
 // So create a new array ('players1Final') containing all the original team1 players plus 'Thiago', 'Coutinho' and 'Perisic'
-let substitutePlayers = ['Thiago','Coutinho','Perisic']
-const players1Final = [...players2,...substitutePlayers]
+let substitutePlayers = ['Thiago','Coutinho','Periscic']
+const players1Final = [...players1,...substitutePlayers]
 console.log(players1Final)
 // Based on the game.odds object, create one variable for each odd (called 'team1', 'draw' and 'team2')
 const team1 = game.odds.team1
@@ -66,15 +67,12 @@ console.log(team2)
 // Write a function ('printGoals') that receives an arbitrary number of player names (NOT an array)
 // and prints each of them to the console,
 // along with the number of goals that were scored in total (number of player names passed in)
-function printGoals(...playerNames){
-    const numGoals = playerNames.length
-    console.log(`Total goals is :${numGoals}`)
-    playerNames.forEach(name => console.log(name))
+function printGoals(...players){
+    console.log(`${players.length} goals were scored`)
+    console.log(players)
 }
-const goals = printGoals(players1Final)
-console.log(goals)
+printGoals(...game.scored)
 //The team with the lower odd is more likely to win.
 // Print to the console which team is more likely to win, WITHOUT using an if/else statement or the ternary operator.
 const [favTeam, underDog] = team1 < team2 ? [team1,team2]: [team2,team1]
 console.log(`${favTeam} is more likely to win than ${underDog}`)
-hrghrfhrt
