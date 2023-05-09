@@ -77,3 +77,4 @@ console.log(goals)
 // Print to the console which team is more likely to win, WITHOUT using an if/else statement or the ternary operator.
 const [favTeam, underDog] = team1 < team2 ? [team1,team2]: [team2,team1]
 console.log(`${favTeam} is more likely to win than ${underDog}`)
+hrghrfhrt
