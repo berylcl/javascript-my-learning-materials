@@ -87,3 +87,5 @@ const add = [1,3,5,9,4]
 const sum = (a,b,c,d,e) => a+b+c+d+e
 const addition =sum(...add)
 console.log(addition)
+
+//SHORT CIRCUITING
