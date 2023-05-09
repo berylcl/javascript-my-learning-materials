@@ -45,3 +45,5 @@ if (restaurant.orderPizza) {
 }
 restaurant.orderPizza && restaurant.orderPizza('mushrooms','spinach')
 //or can be used to set default values
+const guessCorrect = restaurant.numGuests ?? 10
+console.log(guessCorrect)
