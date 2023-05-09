@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3147f3d3-3c5a-4173-b468-e6cb27a3a5f4" name="Changes" comment="add logical assignment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data structures/short-circuiting.js" beforeDir="false" afterPath="$PROJECT_DIR$/Data structures/short-circuiting.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +108,7 @@
       <workItem from="1683552845891" duration="10976000" />
       <workItem from="1683627272066" duration="2754000" />
       <workItem from="1683632484691" duration="766000" />
-      <workItem from="1683633267001" duration="1312000" />
+      <workItem from="1683633267001" duration="1730000" />
     </task>
     <task id="LOCAL-00001" summary="add logical assignment">
       <created>1683627321164</created>
