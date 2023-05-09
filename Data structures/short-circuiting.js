@@ -70,3 +70,9 @@ rest2.owner = rest2.owner && '<ANONYMOUS>'
 rest1.owner = rest1.owner && "<ANONYMOUS>"
 console.log(rest1)
 console.log(rest2)
+
+//MERGING TWO ARRAYS
+const arr1 = [1,2,3]
+const arr2 = [4,5,6]
+const mergedArray = [...arr1,...arr2]
+console.log(mergedArray)
