@@ -88,4 +88,13 @@ const sum = (a,b,c,d,e) => a+b+c+d+e
 const addition =sum(...add)
 console.log(addition)
 
-//SHORT CIRCUITING
+//FOR OF LOOP
+const menu = [...restaurant.starterMenu,...restaurant.mainMenu]
+for (const item of menu) {
+    console.log(item)
+}
+//entries() method is a built-in method available on certain iterable objects, such as arrays, maps, and sets.
+// It returns a new iterator object that contains an array of [key, value] pairs for each element in the iterable.
+for (const item of menu.entries()) {
+    console.log(`${item[0] +1}: ${item[1]}`)
+}
