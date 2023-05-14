@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3147f3d3-3c5a-4173-b468-e6cb27a3a5f4" name="Changes" comment="add logical assignment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data structures/coding challenge.js" beforeDir="false" afterPath="$PROJECT_DIR$/Data structures/coding challenge.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +15,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -59,7 +58,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.codingchallenge2.js">
+  <component name="RunManager" selected="Node.js.strings.js">
     <configuration name="coding challenge.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Data structures/coding challenge.js" working-dir="$PROJECT_DIR$/Data structures">
       <method v="2" />
     </configuration>
@@ -69,19 +68,19 @@
     <configuration name="sets.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Data structures/sets.js" working-dir="$PROJECT_DIR$/Data structures">
       <method v="2" />
     </configuration>
-    <configuration name="short-circuiting.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Data structures/short-circuiting.js" working-dir="$PROJECT_DIR$/Data structures">
+    <configuration name="spread-operator.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Data structures/spread-operator.js" working-dir="$PROJECT_DIR$/Data structures">
       <method v="2" />
     </configuration>
-    <configuration name="spread-operator.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Data structures/spread-operator.js" working-dir="$PROJECT_DIR$/Data structures">
+    <configuration name="strings.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Data structures/strings.js" working-dir="$PROJECT_DIR$/Data structures">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.strings.js" />
         <item itemvalue="Node.js.codingchallenge2.js" />
         <item itemvalue="Node.js.coding challenge.js" />
         <item itemvalue="Node.js.sets.js" />
         <item itemvalue="Node.js.spread-operator.js" />
-        <item itemvalue="Node.js.short-circuiting.js" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +129,8 @@
       <workItem from="1683969223490" duration="19000" />
       <workItem from="1684063071910" duration="963000" />
       <workItem from="1684066765431" duration="1804000" />
-      <workItem from="1684070458303" duration="2209000" />
+      <workItem from="1684070458303" duration="9037000" />
+      <workItem from="1684086909117" duration="994000" />
     </task>
     <task id="LOCAL-00001" summary="add logical assignment">
       <created>1683627321164</created>
