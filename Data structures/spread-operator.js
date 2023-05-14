@@ -98,3 +98,13 @@ for (const item of menu) {
 for (const item of menu.entries()) {
     console.log(`${item[0] +1}: ${item[1]}`)
 }
+
+//OPTIONAL CHAINING
+console.log(restaurant.openingHours.mon?.open)
+
+//LOOPING OVER OBJECTS
+//LOOP[NG OVER PROPERTY NAMES ,KEYS
+const properties = Object.keys(openingHours)
+for (const day of properties ){
+    console.log(day)
+}

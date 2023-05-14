@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3147f3d3-3c5a-4173-b468-e6cb27a3a5f4" name="Changes" comment="add logical assignment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures/coding challenge.js" beforeDir="false" afterPath="$PROJECT_DIR$/Data structures/coding challenge.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data structures/spread-operator.js" beforeDir="false" afterPath="$PROJECT_DIR$/Data structures/spread-operator.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +25,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="2b9281a2-97a1-4676-a89e-65ce1de4f9ef" />
+        <option name="url" value="https://github.com/berylcl/javascript-my-learning-materials" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2OjAc91i6I5D8yacxOMMwZi6ica" />
   <component name="ProjectViewState">
@@ -46,11 +60,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.spread-operator.js">
+  <component name="RunManager" selected="Node.js.sets.js">
     <configuration name="coding challenge.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Data structures/coding challenge.js" working-dir="$PROJECT_DIR$/Data structures">
       <method v="2" />
     </configuration>
     <configuration name="destructuring-objects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Data structures/destructuring-objects.js" working-dir="$PROJECT_DIR$/Data structures">
+      <method v="2" />
+    </configuration>
+    <configuration name="sets.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Data structures/sets.js" working-dir="$PROJECT_DIR$/Data structures">
       <method v="2" />
     </configuration>
     <configuration name="short-circuiting.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Data structures/short-circuiting.js" working-dir="$PROJECT_DIR$/Data structures">
@@ -59,16 +76,13 @@
     <configuration name="spread-operator.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Data structures/spread-operator.js" working-dir="$PROJECT_DIR$/Data structures">
       <method v="2" />
     </configuration>
-    <configuration name="this.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/strict/this.js" working-dir="$PROJECT_DIR$/strict">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.spread-operator.js" />
+        <item itemvalue="Node.js.sets.js" />
         <item itemvalue="Node.js.coding challenge.js" />
+        <item itemvalue="Node.js.spread-operator.js" />
         <item itemvalue="Node.js.short-circuiting.js" />
         <item itemvalue="Node.js.destructuring-objects.js" />
-        <item itemvalue="Node.js.this.js" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +124,13 @@
       <workItem from="1683627272066" duration="2754000" />
       <workItem from="1683632484691" duration="766000" />
       <workItem from="1683633267001" duration="1730000" />
-      <workItem from="1683640116709" duration="4205000" />
+      <workItem from="1683640116709" duration="7706000" />
+      <workItem from="1683666227457" duration="474000" />
+      <workItem from="1683700505009" duration="645000" />
+      <workItem from="1683809482941" duration="3452000" />
+      <workItem from="1683969223490" duration="19000" />
+      <workItem from="1684063071910" duration="963000" />
+      <workItem from="1684066765431" duration="1804000" />
     </task>
     <task id="LOCAL-00001" summary="add logical assignment">
       <created>1683627321164</created>
