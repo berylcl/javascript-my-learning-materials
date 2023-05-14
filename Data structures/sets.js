@@ -43,3 +43,9 @@ task = new Map ([
     ['date', 'todo'],
     [false, 'Start coding']
 ])
+const str = 'hello';
+const paddedStr = str.padStart(10, '-');
+console.log(paddedStr); // "hello-----"
+const str2 = 'hello';
+const paddedStr2 = str.padEnd(10, '-');
+console.log(paddedStr2); // "hello-----"
