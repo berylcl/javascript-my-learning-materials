@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3147f3d3-3c5a-4173-b468-e6cb27a3a5f4" name="Changes" comment="add logical assignment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/closer look at functions/default-parameters.js" beforeDir="false" afterPath="$PROJECT_DIR$/closer look at functions/default-parameters.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +133,10 @@
       <workItem from="1684070458303" duration="9037000" />
       <workItem from="1684086909117" duration="9154000" />
       <workItem from="1684135970976" duration="2162000" />
-      <workItem from="1684152313200" duration="7578000" />
+      <workItem from="1684152313200" duration="9141000" />
+      <workItem from="1684182371693" duration="698000" />
+      <workItem from="1684219633876" duration="813000" />
+      <workItem from="1684309448069" duration="468000" />
     </task>
     <task id="LOCAL-00001" summary="add logical assignment">
       <created>1683627321164</created>

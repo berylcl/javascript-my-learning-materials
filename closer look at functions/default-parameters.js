@@ -142,10 +142,31 @@ const poll = {
 //Run the 'displayResults' method at the end of each 'registerNewAnswer' method call.
 //Call this method whenever the user clicks the "Answer poll" button.
 const pollAnswers = document.querySelector('.poll')
-pollAnswers.addEventListener('click', poll.registerNewAnswer.bind(poll))
+pollAnswers.addEventListener('click', poll.registerNewAnswer.bind(poll));
 //BIND THE THIS KEYWORD AND SET IT TO POLL OBJECT
 //THIS KEYWORD IS NOW BOUND TO POLL OBJECT
 /*The issue was caused by using an arrow function for registerNewAnswer,
  which doesn't bind its own this value to the poll object.
 Using bind() can help solve the issue by explicitly binding this to the poll object.
  */
+
+//ONLY EXECUTED ONCE AND NEVER EXECUTED AGAIN
+//IMMEDIATELY INVOKED FUNCTION EXPRESSIONS
+
+(() => console.log("This will never run again")) ();
+const boardPassengers = function (n, wait) {
+    const perGroup = n / 3;
+
+    setTimeout(function () {
+        console.log(`We are now boarding all ${n} passengers`);
+        console.log(`There are 3 groups, each with ${perGroup} passengers`);
+    }, wait * 1000);
+
+    console.log(`Will start boarding in ${wait} seconds`);
+};
+const headline = document.querySelector('h1')
+const body = document.querySelector('body')
+headline.addEventListener('click', ()=> {
+    headline.style.color = 'red'
+    body.style.background = 'blue'
+})
